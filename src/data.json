@@ -1,0 +1,18 @@
+[
+  {
+    "Himanshu": {
+      "Javascript": 4,
+      "React": 5,
+      "Python": 1,
+      "AWS": 5,
+      "Jenkins": 4
+    },
+    "Shekhar": {
+      "Javascript": 4.5,
+      "React": 4,
+      "Python": 4,
+      "AWS": 3,
+      "Jenkins": 4
+    }
+  }
+]

@@ -1,0 +1,37 @@
+.display__board {
+  margin: 0 auto;
+  background-color: red;
+  width: 70vw;
+}
+
+.header__name {
+  margin-top: 10px;
+  padding: 5px;
+  background-color: yellow;
+}
+
+.table__main {
+  margin: 10px auto;
+  padding: 10px 100px;
+}
+
+table {
+  margin: 10px auto;
+  padding: 10px;
+}
+
+thead {
+  display: flex;
+  justify-content: space-between;
+}
+
+tr:nth-child(3) {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+table,
+th,
+td {
+  border: 2px solid black;
+}
